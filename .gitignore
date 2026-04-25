@@ -1,0 +1,8 @@
+node_modules
+dist
+.quasar
+.DS_Store
+*.log
+*.err
+.env
+.env.local
